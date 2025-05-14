@@ -1,4 +1,7 @@
-[![MasterHead](https://github.com/hunny-2o/Hunny/blob/main/InShot_20250512_101156969.mp4)
+<div align="center">
+<- Background Animation-->>
+<video autoplay muted loop style="width: 100%; height: auto; object-fit: cover; position: absolute; top: 0; left: 0; z-Index: -1;">
+<source src="https://github.com/hunny-2o/Hunny/blob/main/InShot_20250512_101156969.mp4>
 <h1 align="center">Hi 👋, I'm hunny__2.o</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
